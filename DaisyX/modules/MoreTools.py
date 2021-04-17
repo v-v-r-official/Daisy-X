@@ -24,5 +24,7 @@ __help__ = """
  
 ** More **
  - /phone <tp no> : Track Phone no
+
+MODULE BY @Vivek_Kerala
 """
 __mod_name__ = "More Tools 🧩"
